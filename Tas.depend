@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1793705281 source:c:\users\doha\desktop\virtualisation\tas\main.cpp
+	<iostream>
+	"tas.h"
+	"priorityQueue.h"
+
+1793359686 c:\users\doha\desktop\virtualisation\tas\chrono.h
+	<chrono>
+
+1793359710 source:c:\users\doha\desktop\virtualisation\tas\chrono.cpp
+	"chrono.h"
+
+1793359498 source:c:\users\doha\desktop\virtualisation\tas\map.cpp
+
+1793705251 source:c:\users\doha\desktop\virtualisation\tas\priorityqueue.cpp
+	"priorityQueue.h"
+	<stdexcept>
+
+1793359471 source:c:\users\doha\desktop\virtualisation\tas\set.cpp
+
+1793361218 c:\users\doha\desktop\virtualisation\tas\tas.h
+	<vector>
+
+1793705237 c:\users\doha\desktop\virtualisation\tas\priorityqueue.h
+	<queue>
+
+1793705389 source:c:\users\doha\desktop\virtualisation\tas\tas.cpp
+	<iostream>
+	"tas.h"
+
